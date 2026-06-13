@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <!-- Base/Frame -->
+  <rect x="80" y="350" width="640" height="60" rx="4" fill="#1a1a1a"/>
+  
+  <!-- Main body -->
+  <rect x="80" y="120" width="640" height="230" rx="8" fill="#e8e8e8" stroke="#d0d0d0" stroke-width="2"/>
+  
+  <!-- Top panel -->
+  <rect x="80" y="100" width="640" height="30" rx="6" fill="#d0d5dd"/>
+  
+  <!-- Door 1 - Left -->
+  <rect x="100" y="140" width="200" height="190" rx="4" fill="#f0f0f0" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Door handle 1 -->
+  <rect x="280" y="220" width="10" height="30" rx="3" fill="#333"/>
+  <!-- Vent slits -->
+  <rect x="130" y="170" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="180" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="190" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="200" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="210" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="220" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="230" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="240" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="250" width="80" height="4" rx="2" fill="#bbb"/>
+  <rect x="130" y="260" width="80" height="4" rx="2" fill="#bbb"/>
+  
+  <!-- Door 2 - Middle -->
+  <rect x="320" y="140" width="200" height="190" rx="4" fill="#f0f0f0" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Control panel window -->
+  <rect x="360" y="160" width="120" height="80" rx="4" fill="#2a2a2a" stroke="#555" stroke-width="1"/>
+  <!-- Window glass -->
+  <rect x="365" y="165" width="110" height="70" rx="3" fill="#3a4a5a" opacity="0.7"/>
+  <!-- Control panel details -->
+  <circle cx="395" cy="200" r="6" fill="#4a9"/>
+  <circle cx="420" cy="200" r="6" fill="#e44"/>
+  <circle cx="445" cy="200" r="6" fill="#e44"/>
+  <rect x="380" y="215" width="80" height="12" rx="2" fill="#333"/>
+  <!-- Door handle 2 -->
+  <rect x="300" y="220" width="10" height="30" rx="3" fill="#333"/>
+  <!-- Yellow warning label -->
+  <rect x="400" y="270" width="40" height="25" rx="2" fill="#f5c518"/>
+  
+  <!-- Door 3 - Right -->
+  <rect x="540" y="140" width="160" height="190" rx="4" fill="#f0f0f0" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Door handle 3 -->
+  <rect x="540" y="220" width="10" height="30" rx="3" fill="#333"/>
+  <!-- Exhaust vent -->
+  <rect x="570" y="170" width="60" height="100" rx="3" fill="#ddd" stroke="#ccc" stroke-width="1"/>
+  <rect x="575" y="175" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="187" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="199" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="211" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="223" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="235" width="50" height="6" rx="1" fill="#bbb"/>
+  <rect x="575" y="247" width="50" height="6" rx="1" fill="#bbb"/>
+  
+  <!-- Hinges -->
+  <circle cx="100" cy="170" r="4" fill="#444"/>
+  <circle cx="100" cy="300" r="4" fill="#444"/>
+  <circle cx="320" cy="170" r="4" fill="#444"/>
+  <circle cx="320" cy="300" r="4" fill="#444"/>
+  <circle cx="540" cy="170" r="4" fill="#444"/>
+  <circle cx="540" cy="300" r="4" fill="#444"/>
+  <circle cx="700" cy="170" r="4" fill="#444"/>
+  <circle cx="700" cy="300" r="4" fill="#444"/>
+  
+  <!-- Bottom black base -->
+  <rect x="80" y="345" width="640" height="15" rx="2" fill="#1a1a1a"/>
+  
+  <!-- Feet/Legs -->
+  <rect x="120" y="380" width="30" height="40" rx="2" fill="#222"/>
+  <rect x="350" y="380" width="30" height="40" rx="2" fill="#222"/>
+  <rect x="650" y="380" width="30" height="40" rx="2" fill="#222"/>
+  
+  <!-- Perkins Logo Area (without text) -->
+  <circle cx="115" cy="155" r="12" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <path d="M108,155 Q115,145 122,155 Q115,165 108,155" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+</svg>
